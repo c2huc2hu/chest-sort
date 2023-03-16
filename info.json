@@ -1,0 +1,9 @@
+{
+    "name": "sort-inventories",
+    "version": "0.0.1",
+    "title": "Sort chest inventories",
+    "author": "jobjams",
+    "description": "Sort chests",
+    "factorio_version": "1.1"
+}
+
